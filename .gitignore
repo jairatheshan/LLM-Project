@@ -3,3 +3,5 @@ Documentation of PPI (Customer useage patterns).pdf
 
 LLM/
 chroma_store/
+__pycache__/rag_api.cpython-312.pyc
+__pycache__/rag_engine.cpython-312.pyc
